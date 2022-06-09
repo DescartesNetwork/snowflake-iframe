@@ -1,3 +1,3 @@
-# My App
+# Snowflake
 
-A sample project for Sentre developers
+Automation Infrastructure for Solana
